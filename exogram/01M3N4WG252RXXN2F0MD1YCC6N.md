@@ -2,10 +2,10 @@
 aliases:
   - Exogram rdf-lsp
 type:
-  - "[Type Index](20260609210234.md)"
   - "[Type Exogram](20260923113859.md)"
   - "[Type Entity](20260923123011.md)"
-subject: "[Project Implement rdf-lsp](01M3N4VNFX82Y614YM8J695GQ9.md)"
+subject:
+  - "[Project Implement rdf-lsp](01M3N4VNFX82Y614YM8J695GQ9.md)"
 comment: Language server for RDF.
 wasAttributedTo:
   - "[Symbolith](20260816134144.md)"

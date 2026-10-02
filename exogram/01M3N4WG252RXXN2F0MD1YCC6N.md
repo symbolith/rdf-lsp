@@ -6,6 +6,7 @@ type:
   - "[Type Entity](20260923123011.md)"
 subject:
   - "[Project Implement rdf-lsp](01M3N4VNFX82Y614YM8J695GQ9.md)"
+  - "[Software RDF LSP](01M3A9206CENV4T3VBKPQH9481.md)"
 comment: Language server for RDF.
 wasAttributedTo:
   - "[Symbolith](20260816134144.md)"

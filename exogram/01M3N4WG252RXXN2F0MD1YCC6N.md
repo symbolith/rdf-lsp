@@ -9,7 +9,7 @@ subject:
   - "[Software RDF LSP](01M3A9206CENV4T3VBKPQH9481.md)"
 wasAttributedTo:
   - "[Symbolith](20260816134144.md)"
-reviewLevel: unread
+vetting: unread
 ---
 ## Indexes
 
